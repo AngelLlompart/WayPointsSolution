@@ -5,6 +5,7 @@ TagManager:
   serializedVersion: 2
   tags:
   - diposit
+  - Goal
   layers:
   - Default
   - TransparentFX
